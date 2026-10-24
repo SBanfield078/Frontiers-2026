@@ -1,0 +1,3 @@
+This week we worked on git repo structure and how to build a project in git
+- git diff, add, commit, push for introducing changes
+- git pull, clone, creating branches
